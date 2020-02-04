@@ -12,19 +12,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Controller.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LightToggle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventTrigger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventMouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityEventTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventTriggerTut.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEventMouseTut.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Personal-Projects/Unity Projects/Build-A-House/Assets/Scripts/Controller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityEventMouse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Controller.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityEventMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEventTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/LightToggle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityEventMouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityEventTriggerTut.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityEventMouseTut.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityEventMouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityEventTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightToggle.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +85,7 @@
       <updated>1580417106236</updated>
       <workItem from="1580417110187" duration="94000" />
       <workItem from="1580417247254" duration="2599000" />
+      <workItem from="1580840842408" duration="1538000" />
     </task>
     <servers />
   </component>

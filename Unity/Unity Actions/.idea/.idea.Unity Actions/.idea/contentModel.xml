@@ -6,12 +6,14 @@
     <e p="E:\GIT\gsTuts\Unity\Unity Actions" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Controller.cs" t="Include" />
-        <e p="LightToggle.cs" t="Include" />
         <e p="Scripts" t="Include">
-          <e p="UnityEventMouse.cs" t="Include" />
-          <e p="UnityEventTrigger.cs" t="Include" />
+          <e p="Controller.cs" t="Include" />
+          <e p="LightToggle.cs" t="Include" />
+          <e p="UnityEventMouseTut.cs" t="Include" />
+          <e p="UnityEventTriggerTut.cs" t="Include" />
         </e>
+        <e p="UnityEventMouse.cs" t="Include" />
+        <e p="UnityEventTrigger.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />

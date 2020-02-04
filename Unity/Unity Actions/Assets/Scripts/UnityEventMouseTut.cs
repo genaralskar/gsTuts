@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class UnityEventMouse : MonoBehaviour
+public class UnityEventMouseTut : MonoBehaviour
 {
     public UnityEvent OnMouseDownEvent;
     public UnityEvent OnMouseEnterEvent;
