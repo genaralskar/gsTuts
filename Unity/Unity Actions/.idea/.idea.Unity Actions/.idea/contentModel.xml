@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\genar\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\genar\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Unity Actions.1494423382.00" t="ExcludeRecursive" />
+    <e p="E:\GIT\gsTuts\Unity\Unity Actions" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Controller.cs" t="Include" />
+          <e p="LightToggle.cs" t="Include" />
+          <e p="UnityEventMouseTut.cs" t="Include" />
+          <e p="UnityEventTriggerTut.cs" t="Include" />
+        </e>
+        <e p="UnityEventMouse.cs" t="Include" />
+        <e p="UnityEventTrigger.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Unity Actions.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
